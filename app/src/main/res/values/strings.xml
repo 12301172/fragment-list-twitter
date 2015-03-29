@@ -13,7 +13,7 @@
         <item>Delete</item>
     </string-array>
     <string name="shareSubject">URL search that might interest you</string>
-    <string name="shareMessage">Check out the results of this Twitter search: %s</string>
+    <string name="shareMessage">Check out the results of this URL search: %s</string>
     <string name="shareSearch">Share Search to:</string>
     <string name="cancel">Cancel</string>
     <string name="OK">OK</string>
