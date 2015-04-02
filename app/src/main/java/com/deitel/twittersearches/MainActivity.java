@@ -30,7 +30,6 @@ public class MainActivity extends Activity implements FirstFragment.OnFragmentIn
 {
     // name of SharedPreferences XML file that stores the saved searches
     private static final String SEARCHES = "searches";
-
     private EditText queryEditText; // EditText where user enters a query
     private EditText tagEditText; // EditText where user tags a query
     private SharedPreferences savedSearches; // user's favorite searches
